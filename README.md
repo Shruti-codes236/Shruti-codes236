@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 ![Hello](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 -->
 
-[hii](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+![hii]([https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif](https://giphy.com/embed/VbnUQpnihPSIgIXuZv))
 
-<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="300" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
 
 - 🔭 I’m currently working on Cloud👩🏻‍💻, HTML, CSS, JS
 - 🌱 I’m currently learning Django
