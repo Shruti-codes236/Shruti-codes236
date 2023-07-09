@@ -3,8 +3,9 @@
 <!--
 **Shruti-codes236/Shruti-codes236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-Here are some ideas to get you started:-->
+Here are some ideas to get you started:
 ![Hello](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+-->
 
 ![hii](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
