@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ![Hello](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 -->
 
-![hii](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+[hii](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 - 🔭 I’m currently working on Cloud👩🏻‍💻, HTML, CSS, JS
 - 🌱 I’m currently learning Django
