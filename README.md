@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email](shruti.tavhad.cse20@itbhu.ac.in) | [LinkedIn](https://www.linkedin.com/in/shruti-avhad-022798191/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a Swiftie too 😸
+- ⚡ Fun fact: I'm a Swiftie 😸
