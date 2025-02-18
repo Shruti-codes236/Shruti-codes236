@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 ![Hello](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 -->
 
-- 🔭 I’m currently working on Cloud👩🏻‍💻, HTML, CSS, JS
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on Google Cloud👩🏻‍💻
+- 🌱 I’m currently learning RL
 - 👯 I’m looking to collaborate on any field
 - 🤔 I’m looking for help with github actions
 - 💬 Ask me about anything
